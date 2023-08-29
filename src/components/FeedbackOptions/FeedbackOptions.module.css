@@ -1,0 +1,18 @@
+.btnDiv {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.btn {
+    margin-top: 30px;
+    padding: 10px 30px;
+    background-color: #efefff; 
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    border: none;
+}
+.btn:hover {
+    background-color: #005eff; 
+    color: rgb(255, 255, 255);
+}
